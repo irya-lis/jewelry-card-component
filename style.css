@@ -22,7 +22,7 @@ body {
   border-radius: 12px;
   overflow: hidden;
   font-family: sans-serif;
-  background-color: #371919;
+  background-color: #1f3e35;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
@@ -76,17 +76,17 @@ body {
   padding: 10px 20px;
   border: none;
   cursor: pointer;
-  background-color: #a18079;
+  background-color: #a68912;
   color: white;
   border-radius: 4px;
   -webkit-transition: background-color 0.3s;
   transition: background-color 0.3s;
 }
 .product-card__button:hover {
-  background-color: rgb(135.7631578947, 102.3289473684, 95.2368421053);
+  background-color: rgb(119.9891304348, 99.027173913, 13.0108695652);
 }
 .product-card__button:active {
-  background-color: rgb(192.5394736842, 170.6118421053, 165.9605263158);
+  background-color: rgb(230.5923913043, 191.2690217391, 29.9076086957);
 }
 .product-card__button {
   margin-top: 10px;
